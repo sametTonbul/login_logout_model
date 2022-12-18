@@ -1,16 +1,8 @@
-# flutter_login_mail_logout
+<h1 align="center"> Flutter basic Login/Log Out Model </h1>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/sametTonbul/login_logout_model/blob/master/Screenshot_1671357501.png" width="325" height="578" />
+  
+<p align="center">
+  <img src="https://github.com/sametTonbul/login_logout_model/blob/master/Screenshot_1671357503.png" width="325" height="578" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
